@@ -1,4 +1,4 @@
-- 👋 Olá, eu sou FehSouza
-- 👀 Estou interessada em aprender.
+- 👋 Olá, eu sou FehSouza! Uma pessoa com muito interesse em aprender sempre um pouco mais!
 - 🌱 Atualmente estou aprendendo HTML, CSS e JavaScript.
-- 📫 Como me encontrar: engcivil.fernandasouza@gmail.com e https://www.linkedin.com/in/fernanda-silva-de-souza-563925184/
+- 💼 Estou trabalhando na Agência E-Plus como Analista de Desenvolvimento Web.
+- 📫 Como me encontrar: fernanda.souza142010@gmail.com e https://www.linkedin.com/in/fernanda-silva-de-souza-563925184/
