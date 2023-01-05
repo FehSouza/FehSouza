@@ -1,4 +1,4 @@
 - 👋 Olá, eu sou FehSouza! Uma pessoa com muito interesse em aprender sempre um pouco mais!
-- 🌱 Atualmente estou aprendendo HTML, CSS e JavaScript.
-- 💼 Estou trabalhando na Agência E-Plus como Analista de Desenvolvimento Web.
+- 🌱 Atualmente estou me aprofundando no JavaScript e aprendendo ReactJS.
+- 💼 Estou trabalhando na Agência E-Plus como Desenvolvedora Júnior II.
 - 📫 Como me encontrar: fernanda.souza142010@gmail.com e https://www.linkedin.com/in/fernanda-silva-de-souza-563925184/
