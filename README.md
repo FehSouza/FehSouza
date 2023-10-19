@@ -38,7 +38,7 @@ Em busca de sempre estar aprendendo e praticando, desenvolvo alguns projetos pes
 
 # 📫 Contatos
 
-<a href="https://www.linkedin.com/in/fehssouza/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/fernanda-silva-de-souza/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:fernanda.souza142010@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 &nbsp;
