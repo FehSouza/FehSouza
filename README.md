@@ -1,20 +1,20 @@
 # Olá 👋
 
-Me chamo Fernanda Souza, tenho 27 anos e moro em Mauá - SP
+Me chamo Fernanda Souza, tenho 27 anos, moro em Mauá - SP, e sou desenvolvedora Front-end com paixão por criar soluções interativas e funcionais.
 
-Sou formada em Engenharia Civil pela Universidade Paulista, mas no ano de 2021 decidi que estava na hora de buscar novos horizontes, e assim, embarquei no mundo da Tecnologia, por meio de um curso do [How To Code](./Certificados/Certificado%20Hall%20To%20Code.pdf), muitas aulas do Curso em Vídeo, e muita pesquisa no vasto universo da Internet
+🎓 Formada em Engenharia Civil pela Universidade Paulista, em 2021 decidi seguir minha curiosidade e embarcar no mundo da tecnologia, por meio de um curso do [How To Code](./Certificados/Certificado%20Hall%20To%20Code.pdf), muitas aulas do Curso em Vídeo, e muita pesquisa no vasto universo da Internet. Desde então, tenho me dedicado ao aprendizado e prática de desenvolvimento web, com destaque para HTML, CSS, JavaScript, TypeScript, ReactJS e Preact.
 
-Atualmente sou Programadora Front-end na Agência e-Plus (be plus!)
+🚀 Atualmente, atuo como desenvolvedora Front-end, e em paralelo desenvolvo projetos pessoais para expandir meu conhecimento, tanto na área de e-commerce, que é o foco do meu trabalho atual, quanto em projetos que me desafiam em novas tecnologias e conceitos.
 
-Em busca de sempre estar aprendendo e praticando, desenvolvo alguns projetos pessoais, as vezes voltados para a minha área de atuação profissional (e-commerce), outras já voltadas para projetos (sonho de consumo profissional), e outras ainda apenas para testar provas de conceitos
+💡 Sempre em busca de novos aprendizados, estou constantemente testando e explorando novas ideias e conceitos.
 
 &nbsp;
 
 # ✨ Curiosidades
 
-- Gosto de ler ou assistir série quando sobra tempo
+- Nas horas vagas, gosto de ler ou assistir séries
 - Fã de Harry Potter (After all this time? Always!)
-- Entusiasta em tecnologia e com vontade de crescer dentro da área!
+- Entusiasta em tecnologia e com vontade de crescer na área!
 
 &nbsp;
 
